@@ -1,6 +1,6 @@
 nav ul{
     background-color: rgb(247, 217, 229);
-    list-style: circle;
+    list-style: none;
     width: 200px;
     padding: 5px;
 }
