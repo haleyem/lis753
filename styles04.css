@@ -9,5 +9,6 @@ nav ul li{
     border-bottom: 2px solid black;
 }
 nav ul li a{
-    color:rgb(84, 10, 138)
+    color:rgb(84, 10, 138);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
