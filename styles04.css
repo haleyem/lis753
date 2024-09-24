@@ -2,9 +2,6 @@ nav ul{
     background-color: rgb(247, 217, 229);
     padding: 5px;
 }
-head title{
-    color: rgb(84, 10, 138);
-}
 nav ul li{
     border-bottom: 2px solid black;
 }
