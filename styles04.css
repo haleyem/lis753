@@ -12,7 +12,7 @@ nav ul li a{
     color:rgb(84, 10, 138);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-article figure img{
-    width: fit-content;
+article figure{
+    width: 500px;
     border: 3px solid grey;
 }
