@@ -14,5 +14,5 @@ nav ul li a{
 }
 article figure{
     width: fit-content;
-    border: 1px solid grey;
+    border: 3px solid grey;
 }
