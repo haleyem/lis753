@@ -23,6 +23,9 @@ article figure{
 article figure img{
     width: 100%;
 }
+nav ul li a:hover{
+    text-decoration: blueviolet;
+}
 .home{
     background-color: cadetblue;
 }
