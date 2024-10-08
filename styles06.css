@@ -34,3 +34,6 @@ h1{
 nav ul li a:hover{
     text-decoration-color: rgb(167, 97, 233);
 }
+.wow{
+    text-align: center;
+}
