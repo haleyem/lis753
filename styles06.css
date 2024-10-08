@@ -7,7 +7,7 @@ nav ul{
     text-align: center;
 }
 nav{
-    padding-left: 10px;
+    padding-left: 50px;
 }
 nav ul li{
     text-align: center;
@@ -35,6 +35,9 @@ article figure img{
 }
 h1{
     text-align: center;
+}
+h3{
+    padding-top: 15px;
 }
 nav ul li a:hover{
     text-decoration-color: rgb(167, 97, 233);
