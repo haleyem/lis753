@@ -24,7 +24,7 @@ article figure img{
     width: 100%;
 }
 nav ul li a:hover{
-    text-decoration: blueviolet;
+    text-decoration: rgb(150, 67, 229);
 }
 .home{
     background-color: cadetblue;
