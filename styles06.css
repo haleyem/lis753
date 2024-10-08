@@ -7,18 +7,19 @@ nav ul{
     text-align: center;
 }
 nav ul li{
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid rgb(181, 121, 145);
 }
 nav ul li a{
     color:rgb(84, 10, 138);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
 }
 article p{
     width: 800px;
     text-align: center;
 }
 article figure{
-    margin-left: auto;
+    margin-left:;
     margin-right: auto;
     width: 500px;
     border: 3px solid grey;
