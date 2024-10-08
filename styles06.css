@@ -37,3 +37,6 @@ nav ul li a:hover{
 .wow{
     text-align: center;
 }
+body{
+    border: 2px solid grey;
+}
