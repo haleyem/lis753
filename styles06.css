@@ -26,6 +26,9 @@ article figure{
 article figure img{
     width: 100%;
 }
+h1{
+    text-align: center;
+}
 nav ul li a:hover{
     text-decoration-color: rgb(167, 97, 233);
 }
