@@ -18,6 +18,8 @@ nav ul li a{
 }
 article{
     width: 800px;
+    padding-left: 50px;
+    text-align: left;
 }
 article p{
     text-align: left;
@@ -38,8 +40,6 @@ h1{
 }
 h3{
     padding-top: 15px;
-    padding-left: 50px;
-    text-align: left;
 }
 nav ul li a:hover{
     text-decoration-color: rgb(167, 97, 233);
