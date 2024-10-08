@@ -14,7 +14,7 @@ nav ul li a{
 }
 article{
     width: 800px;
-    align-items: center;
+    text-align: center;
 }
 article figure{
     margin-left: auto;
