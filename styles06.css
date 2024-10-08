@@ -4,6 +4,7 @@ nav ul{
     width: 200px;
     padding: 5px;
     border: 2px solid black;
+    text-align: center;
 }
 nav ul li{
     border-bottom: 2px solid black;
