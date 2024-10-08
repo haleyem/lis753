@@ -22,6 +22,7 @@ article{
 }
 article p{
     text-align: left;
+    padding-left: 25px;
 }
 article figure{
     margin-left: auto;
