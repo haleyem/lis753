@@ -37,6 +37,9 @@ nav ul li a:hover{
     font-weight: 400;
     font-size: 20px;
 }
+#main{
+    font-size: large;
+}
 body{
     border: 2px solid grey;
 }
