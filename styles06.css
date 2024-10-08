@@ -33,12 +33,3 @@ h1{
 nav ul li a:hover{
     text-decoration-color: rgb(167, 97, 233);
 }
-.home{
-    background-color: cadetblue;
-}
-.more-photos{
-    background-color: lavender;
-}
-.about-us{
-    background-color: thistle;
-}
