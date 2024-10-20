@@ -3,13 +3,16 @@ article h3{
 }
 article figure{
     width: 450px;
+    float: right;
 }
 article figure img{
     width: 100%;
-    float: right;
 }
 article{
     width: 900px;
+}
+article p{
+    float:left
 }
 .map{
 
