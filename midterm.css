@@ -8,7 +8,11 @@ article figure img{
 article{
     width: 1000px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
 }
 h1{
     color:darkmagenta
+}
+h3{
+    padding-top: 25px;
 }
