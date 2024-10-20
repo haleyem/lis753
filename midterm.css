@@ -2,8 +2,11 @@ article h3{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 article figure{
-    width: 400px;
+    width: 450px;
 }
 article figure img{
     width: 100%;
+}
+.map{
+
 }
