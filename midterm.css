@@ -2,17 +2,21 @@ article figure{
     width: 500px;
     float: right;
 }
+.head{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 25px;
+}
 article figure img{
     width: 100%;
 }
 article{
     width: 1000px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 10px;
+    padding: 25px;
 }
 h1{
-    color:darkmagenta
+    color:darkmagenta;
 }
 h3{
-    padding-top: 25px;
+    padding-top: 15px;
 }
