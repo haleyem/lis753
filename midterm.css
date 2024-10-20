@@ -7,6 +7,9 @@ article figure{
 article figure img{
     width: 100%;
 }
+article{
+    width: 900px;
+}
 .map{
 
 }
