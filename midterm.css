@@ -15,11 +15,14 @@ article{
     padding-left: 25px;
 }
 h1{
-    color:darkmagenta;
+    color: #3B1B1B;
 }
 h3{
     padding-top: 15px;
 }
 #bottom{
     padding-bottom: 25px;
+}
+body{
+    background-color: #D0F5E7;
 }
