@@ -1,6 +1,7 @@
 article figure{
     width: 600px;
     float: right;
+    position: relative;
 }
 .head{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
