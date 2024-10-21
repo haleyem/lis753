@@ -25,6 +25,9 @@ h3{
 #bottom{
     padding-bottom: 25px;
 }
+.wrap{
+    text-decoration-color: aquamarine;
+}
 .text{
     text-decoration-color: #3B1B1B;
 }
