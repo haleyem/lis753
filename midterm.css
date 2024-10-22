@@ -7,7 +7,6 @@ article figure{
 .head{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-left: 25px;
-    padding-bottom: 50px;
 
 }
 article figure img{
@@ -22,7 +21,8 @@ h1{
     color: #3B1B1B;
 }
 h3{
-    padding-top: 15px;
+    padding-top: 50px;
+    padding-bottom: 25px;
 }
 #bottom{
     padding-bottom: 25px;
