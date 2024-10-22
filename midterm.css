@@ -7,6 +7,8 @@ article figure{
 .head{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-left: 25px;
+    width: 1300px;
+    float: none;
 }
 article figure img{
     width: 100%;
