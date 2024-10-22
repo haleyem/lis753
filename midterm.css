@@ -33,4 +33,9 @@ body{
 }
 .box{
     background-color: #B7D8CB;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: #3B1B1B;
+    border-width: 2px;
+    border-style: groove;
 }
