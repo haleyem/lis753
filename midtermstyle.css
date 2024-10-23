@@ -11,6 +11,7 @@ article figure{
     padding-bottom: 20px;
     background-color: #35755D;
     width: 650px;
+    color: #D0F5E7;
 }
 article figure img{
     width: 100%;
@@ -19,9 +20,6 @@ article{
     width: 1300px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-left: 25px;
-}
-h1{
-    color: #D0F5E7;
 }
 h3{
     padding-top: 40px;
@@ -39,8 +37,8 @@ body{
 #lower{
     padding-top: 50px;
 }
-.box{
-   
+#box{
+   width: 600px;
 }
 em{
     font-style: normal;
