@@ -44,3 +44,8 @@ em{
     font-style: normal;
     font-weight: bold;
 }
+#footer{
+    color:#3B1B1B;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+}
