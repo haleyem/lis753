@@ -7,7 +7,8 @@ article figure{
 .head{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-left: 25px;
-    padding-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 20px;
     background-color: #35755D;
     width: 650px;
 }
