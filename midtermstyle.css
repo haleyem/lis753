@@ -12,6 +12,8 @@ article figure{
     background-color: #35755D;
     width: 650px;
     color: #D0F5E7;
+    margin-left: auto;
+    margin-right: auto;
 }
 article figure img{
     width: 100%;
