@@ -19,11 +19,9 @@ nav ul li a{
 article{
     padding-left: 50px;
     text-align: left;
-    width: 800px;
 }
 article figure{
     margin-right: auto;
-    width: 500px;
     border: 3px solid grey;
     padding: 3px;
 }
@@ -48,4 +46,22 @@ nav ul li a:hover{
 body{
     border: 2px solid grey;
     background-color: rgb(248, 240, 250);
+}
+.main container{
+    max-width: 960px;
+    margin: auto;
+}
+.photo{
+    width: 50%;
+}
+.text{
+    width: 30%;
+}
+.sidebar{
+    width: 20%;
+}
+.photo,
+.text,
+.sidebar{
+    float: left;
 }
