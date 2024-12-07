@@ -1,0 +1,51 @@
+nav ul{
+    background-color: rgb(247, 217, 229);
+    list-style: none;
+    width: 200px;
+    padding: 5px;
+    border: 2px solid black;
+    text-align: center;
+}
+nav{
+    padding-left: 50px;
+}
+nav ul li{
+    text-align: center;
+}
+nav ul li a{
+    color:rgb(84, 10, 138);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+article{
+    padding-left: 50px;
+    text-align: left;
+    width: 800px;
+}
+article figure{
+    margin-right: auto;
+    width: 500px;
+    border: 3px solid grey;
+    padding: 3px;
+}
+article figure img{
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+h3{
+    padding-top: 15px;
+}
+nav ul li a:hover{
+    text-decoration-color: rgb(167, 97, 233);
+}
+.wow{
+    border-bottom: 1px dashed rgb(227, 201, 245);
+}
+#main{
+    background-color: rgb(227, 201, 245);
+}
+body{
+    border: 2px solid grey;
+    background-color: rgb(248, 240, 250);
+}
