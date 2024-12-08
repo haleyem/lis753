@@ -19,6 +19,7 @@ nav ul li a{
 article{
     padding-left: 50px;
     text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 article figure{
     margin-right: auto;
