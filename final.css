@@ -73,4 +73,5 @@ body{
 .text,
 .sidebar{
     float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
